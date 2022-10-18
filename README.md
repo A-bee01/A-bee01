@@ -23,7 +23,7 @@ I'm very passionate about gaining knowledge until I am good enough to give out.
 - 🤓 I wear glasses and I love them.
 - 🌱 I love Web 3.0 as much as I love myself and bread 😂😂.
 - ☠  Learning to code Web 3.0
-- 😉 I am an Explorer Psyche at [Earn.Games](https://earn.games/home).
+- 😉 I am an Ambassador at [Earn.Games](https://earn.games/home).
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer (Intern or Junior level).
 - 📫 Here's a link to my little CV (https://drive.google.com/file/d/1Plw2I3P8floUghDyr5qaKjNiBAjEj4YP/view)

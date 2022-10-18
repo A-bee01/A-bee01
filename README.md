@@ -25,7 +25,7 @@ I'm very passionate about gaining knowledge until I am good enough to give out.
 - 😉 I am an Explorer Psyche at [Earn.Games](https://earn.games/home).
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer (Intern or Junior level).
-- 📫 Here's a link to my little CV (https://drive.google.com/file/d/1hbXsdoTj4UV9_VXg2FD7Y9Pai3f-nGbC/view?usp=drivesdk)
+- 📫 Here's a link to my little CV (https://drive.google.com/file/d/1Plw2I3P8floUghDyr5qaKjNiBAjEj4YP/view)
  I can also be contacted through my mail abbydeew@gmail.com
 
 ---

@@ -38,7 +38,7 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 ---
 <p>
 <h2>🏆 Github Trophy </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=Tech-Girl1">
+<img src="https://github-profile-trophy.vercel.app/?username=A-bee01">
 </p>
 
 

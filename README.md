@@ -11,6 +11,18 @@ I am a junior Software Engineer, a Blockchain Ethusiast, a Mechanical Engineer i
 Currently an IT student at [Value Jet](https://flyvaluejet.com/) [A Fly for Value Aviation Company)
 I am very passionate about gaining knowledge until I am good enough to give out. 
 
+<p align="center">
+<a href="https://wakatime.com/@Tech_Girl">
+    <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
+  </a>  
+ <a href="https://twitter.com/ab_undance">
+    <img src="https://img.shields.io/twitter/follow/ab_undance?label=followers&logo=twitter&color=%23007ec6&style=plastic"/> 
+  </a>
+  <a href="https://github.com/A-bee01">
+    <img src="https://img.shields.io/github/followers/A-bee01?logo=github&style=plastic"/> 
+  </a>
+</p>
+
 🦋🦋God's Special Girl🦋🦋
 
 
@@ -44,3 +56,6 @@ I am very passionate about gaining knowledge until I am good enough to give out.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-bee01&show_icons=true&include_all_commits=true&hide_border=true" alt="Abundance's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bee01&langs_count=8&layout=compact&hide_border=true" alt="Abundance's GitHub stats" /> |
 | ------------- | ------------- |
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tech_Girl&layout=compact)
+![Ab's Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=A-bee01&layout=compact&include_all_commits=true&&count_private=true&langs_count=20)
+

@@ -1,6 +1,6 @@
 # Oh, Hello there.
 I am Abundance, Ab for short👋🏾
-Been AWOL for a while.
+I have been AWOL for a while.
 So there is literally nothing to see here for now but welcome anyways. I am back!.
 
 I really hope to do more soon!
@@ -11,10 +11,13 @@ I am a junior Software Engineer, a Blockchain Ethusiast, a Mechanical Engineer i
 Currently an IT student at [Value Jet](https://flyvaluejet.com/) [A Fly for Value Aviation Company)
 I am very passionate about gaining knowledge until I am good enough to give out. 
 
+<br />
+<hr />
+
+🦋🦋God's Special Girl🦋🦋
+
 <p align="center">
-<a href="https://wakatime.com/@Tech_Girl">
-    <img src="https://wakatime.com/badge/user/6887a696-3885-4b54-a72b-318b6f2379be.svg"/> 
-  </a>  
+<a href="https://wakatime.com/@0752a885-f7f3-415d-8cf6-a700ac87be7d"><img src="https://wakatime.com/badge/user/0752a885-f7f3-415d-8cf6-a700ac87be7d.svg" alt="Total time coded since Aug 31 2022" /></a>
  <a href="https://twitter.com/ab_undance">
     <img src="https://img.shields.io/twitter/follow/ab_undance?label=followers&logo=twitter&color=%23007ec6&style=plastic"/> 
   </a>
@@ -22,9 +25,7 @@ I am very passionate about gaining knowledge until I am good enough to give out.
     <img src="https://img.shields.io/github/followers/A-bee01?logo=github&style=plastic"/> 
   </a>
 </p>
-
-🦋🦋God's Special Girl🦋🦋
-
+<hr />
 
 
 **HERE IS A QUICK SUMMARY ABOUT ME**:
